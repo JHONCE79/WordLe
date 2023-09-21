@@ -81,3 +81,4 @@ if __name__ == "__main__":
     tag_counts = notebook.tags_note_count()
     for tag, count in tag_counts.items():
         print(f"{tag}: {count} notes")
+#
